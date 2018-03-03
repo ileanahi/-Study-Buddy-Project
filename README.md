@@ -17,7 +17,7 @@ Project Deadline:
 * To be discussed
 
 Current Participants:
-@sophistique_chat
+@sophistique-chat
 @Matt
 @sachin3
 @stephenprager92
