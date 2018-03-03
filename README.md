@@ -10,7 +10,7 @@ Project Purposes:
 * Share our results on Udacity GWG Forum
 
 Project Rules:
-* Name your branches that are not for testing, but to be included in the Project after your nickname. E.g. mine is sophistique_chat
+* Name your branches that are not for testing, but to be included in the Project, after your nickname. E.g. mine is sophistique-chat
 * To be continued (whatever can make us more comfortable here needs to be added to this Readme for future references)
 
 Project Deadline:
