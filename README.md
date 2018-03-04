@@ -22,6 +22,7 @@ Current Participants:
 @sachin3
 @stephenprager92
 @BkAngel201
+@JaniceM
 
 If anybody from the rest of our team is registered here and wasn't added to the Collaborators list, please inform me using any convenient way.
 
